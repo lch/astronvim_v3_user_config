@@ -1,7 +1,9 @@
-# AstroNvim User Configuration
+# AstroNvim v3 User Configuration
 
-Self-using [AstroNvim](https://github.com/AstroNvim/AstroNvim) Configuration
+> [!WARNING]
+> This repository is considered obsolete.
 
+Self-using [AstroNvim v3](https://github.com/AstroNvim/AstroNvim/tree/v3.40.3) Configuration
 
 Currently following Language Servers are configured:
 
